@@ -30,7 +30,7 @@
 
 ---
 
-I'm a **Computer Science undergraduate at the National University of Singapore**, with a second major in **Mathematics**. Through two AI engineering internships, I've worked on locally hosted LLM applications, retrieval-augmented generation, and deployment in secure environments.
+Hi there! I'm a **Computer Science undergraduate at the National University of Singapore**, with a second major in **Mathematics**. Through my two AI engineering internships, I've worked on locally hosted LLM applications, agentic AI, retrieval-augmented generation, and deployment in secure on-prem environments.
 
 My focus is building practical AI systems with clear evaluation, reliable workflows, and measurable results.
 
